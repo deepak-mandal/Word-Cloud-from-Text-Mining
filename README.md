@@ -7,6 +7,3 @@ Analysed the unstructured data (article) using text mining and created the Word 
 
 ![word_cloud](/wc1.png)
 
-
-Self-paced project
-
